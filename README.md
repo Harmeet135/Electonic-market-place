@@ -2,7 +2,7 @@
 
 EMP is a web page for shooping electronic items made with NextJs and Sanity.io 
 
-try it **[here](https://electonic-market-place.vercel.app/product/smart-watch)
+try it **[here](https://electonic-market-place.vercel.app/)
 
 ## To run it on ur system locally
 
